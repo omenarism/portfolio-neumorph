@@ -1,0 +1,17 @@
+body {
+    background: #dff36d
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    margin-top: 150px;
+    width: 1000px;
+    height: 400px;
+    box-sizing: border-box;
+    border-radius: 13px;
+    background: #dff36d;
+    box-shadow: 20px 20px 40px #becf5d,
+    -20px -20px 40px #ffff7d;
+
+}
